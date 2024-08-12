@@ -1,0 +1,32 @@
+.black {
+
+    padding-right: 5vw;
+    padding-left: 30vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    background-color: black;
+}
+
+.gray {
+    border-image: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(211, 150, 255, 1) 100%)1;
+    border-width: 10px;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+    padding-right: 5vw;
+    padding-left: 30vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    background-color: #222;
+}
+
+.ltgray {
+    padding-right: 5vw;
+    padding-left: 30vw;
+    padding-bottom: 2vh;
+    padding-top: 2vh;
+    background-color: #555;
+    text-align: start;
+
+
+}
