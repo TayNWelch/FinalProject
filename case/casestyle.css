@@ -1,0 +1,27 @@
+.black {
+
+    padding-right: 5vw;
+    padding-left: 30vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    background-color: black;
+}
+
+.gray {
+    border-image: linear-gradient(95deg, rgba(168, 116, 210, 1) 0%, rgba(247, 170, 255, 1) 16%, rgba(244, 206, 152, 1) 36%, rgba(240, 242, 148, 1) 50%,
+            rgba(96, 255, 149, 1) 75%, rgba(118, 215, 255, 1) 100%)1;
+    border-width: 10px;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+    padding-right: 5vw;
+    padding-left: 30vw;
+    background-color: #222;
+}
+
+.ltgray {
+    padding-right: 5vw;
+    padding-left: 30vw;
+    background-color: #555;
+
+}
